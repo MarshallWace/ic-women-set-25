@@ -1,0 +1,21 @@
+Country,City,Is Capital
+Italy,Turin,False
+Japan,Kyoto,True
+Canada,Toronto,True
+Canada,Montreal,True
+Spain,Seville,True
+France,Paris,True
+Japan,Kyoto,False
+Spain,Zaragoza,False
+Italy,Rome,True
+Australia,Perth,False
+Australia,Brisbane,True
+France,Nice,True
+Canada,Vancouver,False
+Japan,Nagoya,False
+Japan,Kyoto,False
+Canada,Montreal,True
+Canada,Ottawa,False
+Brazil,São Paulo,True
+Australia,Melbourne,True
+Australia,Sydney,True

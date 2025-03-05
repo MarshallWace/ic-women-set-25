@@ -1,0 +1,7 @@
+name: ic-women-set
+
+
+dependencies:
+  - python==3.11
+  - jupyter
+  - pandas
