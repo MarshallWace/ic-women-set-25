@@ -12,7 +12,7 @@ stackoverflow developer survey.
 Both tasks are written in python on jupyter notebooks.
 If run in Google colab, they should download the necessary dependencies when
 run. Otherwise you can find the `environment.yml` file to set up a conda/mamba
-environment.
+environment. You can use the command `conda env create -f environment.yml` in order to do this (or replace `conda` with `mamba`).
 
 ## Submission
 We would love to see what solutions you come up with!
